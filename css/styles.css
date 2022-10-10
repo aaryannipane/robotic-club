@@ -1,0 +1,25 @@
+.carousel-item{
+    height: 800px;
+}
+
+.bg-primary{
+    height: 200px;
+    background-color: rgb(74, 68, 225) !important;
+    padding-top: 2% !important;
+}
+
+.bg2{
+    background-color:  	#f3d6d6;
+}
+
+.text-center:hover{
+    color: rgb(21, 73, 185);
+}
+
+.featurette-heading:hover{
+    color: rgb(36, 5, 148);
+}
+
+.lead{
+    color: rgb(171, 81, 42);
+}
